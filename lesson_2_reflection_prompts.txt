@@ -20,3 +20,5 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 
 I am the new line
+
+I am a second new line
